@@ -23,12 +23,12 @@
         height: 100%;
     }
 
-    div{
-        font-size: 1.3em;
-    }
-
     div p{
         padding: 20px;
+    }
+
+    div#login{
+        display: block;
     }
 }
 
@@ -55,11 +55,9 @@
         height: 100%;
     }
 
-    div{
-        font-size: 1.5em;
-    }
-
     div p{
         padding: 20px;
     }
+
+
 }
